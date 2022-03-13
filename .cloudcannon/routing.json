@@ -4,7 +4,7 @@
       "from": "(.*)",
       "to": "/index.html",
       "status": 410,
-      "forced": false
+      "forced": true
     }
   ]
 }
